@@ -1,6 +1,6 @@
-## Zynox
+## zynox_flex
 
-Customization for zynox
+Customization for zynox_flex
 
 #### License
 

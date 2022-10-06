@@ -5,10 +5,10 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "Zynox",
+			"module_name": "zynox_flex",
 			"color": "green",
 			"icon": "octicon octicon-home-fill",
 			"type": "module",
-			"label": _("Zynox")
+			"label": _("zynox_flex")
 		}
 	]

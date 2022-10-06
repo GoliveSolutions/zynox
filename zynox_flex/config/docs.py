@@ -2,10 +2,10 @@
 Configuration for docs
 """
 
-# source_link = "https://github.com/[org_name]/zynox"
-# docs_base_url = "https://[org_name].github.io/zynox"
+# source_link = "https://github.com/[org_name]/zynox_flex"
+# docs_base_url = "https://[org_name].github.io/zynox_flex"
 # headline = "App that does everything"
 # sub_heading = "Yes, you got that right the first time, everything"
 
 def get_context(context):
-	context.brand_html = "Zynox"
+	context.brand_html = "zynox_flex"
